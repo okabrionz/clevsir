@@ -1,36 +1,25 @@
 {
-    "title": "Stackbit Azimuth Theme",
-    "palette": "blue",
-    "header": {
-        "title": "Azimuth",
-        "logo_img": "images/logo.png",
-        "has_nav": true,
-        "menu": {
-            "actions": [
-                {
-                    "label": "Sign Up",
-                    "url": "/signup"
-                }
-            ]
-        }
-    },
-    "footer": {
-        "logo_img": "images/logo_alt.png",
-        "tagline": "SaaS theme by Stackbit",
-        "has_nav": true,
-        "nav_title": "Company",
-        "has_social": true,
-        "social_title": "Community",
-        "has_subscribe": true,
-        "subscribe_title": "Subscribe",
-        "subscribe_content": "Stay up to date with our latest developments.",
-        "content": "&copy; Stackbit. All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
+  "title": "Pesantren Sirnarasa Cisirri",
+  "palette": "orange",
+  "header": {
+    "title": "Sirnarasa",
+    "logo_img": "/images/logo.svg",
+    "has_nav": true,
+    "menu": {
+      "actions": []
     }
+  },
+  "footer": {
+    "subscribe_title": "Ikuti",
+    "subscribe_content": "Tetap up to date dengan berita terbaru kami",
+    "has_subscribe": true,
+    "social_title": "Tentang",
+    "tagline": "Kajembaran Rohmaniyah",
+    "logo_img": "/images/logo.svg",
+    "has_social": true,
+    "content": "&copy; Sirnarasa",
+    "links": [],
+    "nav_title": "Lembaga",
+    "has_nav": true
+  }
 }
